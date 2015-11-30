@@ -1,2 +1,1 @@
 first resource
-second resource
