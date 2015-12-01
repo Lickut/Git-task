@@ -1,2 +1,2 @@
-first line in master branch
+first line
 second common line
